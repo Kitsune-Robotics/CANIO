@@ -68,5 +68,5 @@ jobs:
           overwrite: true
           prerelease: true
           #
-          body: "Kitsune Scientific, Automated with github ci/cd."
+          body: "Kitsune Robotics, Automated with github ci/cd."
           file_glob: true

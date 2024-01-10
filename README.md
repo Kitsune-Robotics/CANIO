@@ -1,6 +1,6 @@
-[![Docs](https://github.com/KenwoodFox/CANIO/actions/workflows/docs_workflow.yml/badge.svg)](https://github.com/KenwoodFox/CANIO/actions/workflows/docs_workflow.yml)
-[![Hardware](https://github.com/KenwoodFox/CANIO/actions/workflows/hardware_workflow.yml/badge.svg)](https://github.com/KenwoodFox/CANIO/actions/workflows/hardware_workflow.yml)
-[![Firmware](https://github.com/KenwoodFox/CANIO/actions/workflows/firmware_workflow.yml/badge.svg)](https://github.com/KenwoodFox/CANIO/actions/workflows/firmware_workflow.yml)
+[![Docs](https://github.com/Kitsune-Robotics/CANIO/actions/workflows/docs_workflow.yml/badge.svg)](https://github.com/Kitsune-Robotics/CANIO/actions/workflows/docs_workflow.yml)
+[![Hardware](https://github.com/Kitsune-Robotics/CANIO/actions/workflows/hardware_workflow.yml/badge.svg)](https://github.com/Kitsune-Robotics/CANIO/actions/workflows/hardware_workflow.yml)
+[![Firmware](https://github.com/Kitsune-Robotics/CANIO/actions/workflows/firmware_workflow.yml/badge.svg)](https://github.com/Kitsune-Robotics/CANIO/actions/workflows/firmware_workflow.yml)
 
 
 # CANIO
@@ -9,14 +9,14 @@
 
 This repo contains all the firmware and hardware for the CANIO.
 
-If you're looking for the latest docs/builds, see our [Releases Page](https://github.com/KenwoodFox/CANIO/releases).
+If you're looking for the latest docs/builds, see our [Releases Page](https://github.com/Kitsune-Robotics/CANIO/releases).
 
 # Getting Started
 
 First, clone this repo (and optionally checkout a branch)
 
 ```shell
-git clone https://github.com/KenwoodFox/CANIO.git
+git clone https://github.com/Kitsune-Robotics/CANIO.git
 cd CANIO
 ```
 

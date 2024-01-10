@@ -7,7 +7,7 @@
   (title_block
     (title "CANIO")
     (rev "${REVISION}")
-    (company "Kitsune Scientific")
+    (company "Kitsune Robotics")
   )
 
   (lib_symbols
