@@ -312,7 +312,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "Libraries/kenwoodfox-kicad-libraries/worksheets/KitsuneScientificWorksheet.kicad_wks",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -326,6 +326,10 @@
     [
       "894f620e-3404-4a40-a2a7-513bc1d5f99b",
       ""
+    ],
+    [
+      "de3f136a-4876-4908-a268-32055f46152a",
+      "CANBUS"
     ]
   ],
   "text_variables": {}

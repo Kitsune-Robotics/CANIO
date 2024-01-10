@@ -14,6 +14,23 @@
   )
 
 
+  (sheet (at 20.955 26.035) (size 29.845 35.56) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid de3f136a-4876-4908-a268-32055f46152a)
+    (property "Sheetname" "CANBUS" (at 20.955 25.3234 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "canbus.kicad_sch" (at 20.955 62.1796 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "CANIO"
+        (path "/894f620e-3404-4a40-a2a7-513bc1d5f99b" (page "2"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )
