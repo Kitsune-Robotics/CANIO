@@ -1728,6 +1728,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0e3e275d-3cfe-404e-bdca-41b7930f3d74)
   )
+  (text "Only populate these\nif for some reason the \nCLKOUT from the MCP chip\ndosn't pan out!"
+    (at 81.28 139.7 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 159b9132-9bb5-4ca1-a092-006ce7a9fe54)
+  )
   (text "USB" (at 216.535 15.875 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 46ddf0c2-2e85-4269-88e6-e48abc30e452)
