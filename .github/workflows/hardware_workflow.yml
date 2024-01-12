@@ -59,6 +59,13 @@ jobs:
         with:
           name: Board-Hardware
 
+      - name: Send to discord
+        uses: appleboy/discord-action@master
+        with:
+          webhook_id: ${{ secrets.WEBHOOK_ID }}
+          webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
+          file: "CANIO-3D_top.png"
+
       - name: Upload KiCAD Artifacts
         uses: edunad/actions-image@v2.0.3
         with:
