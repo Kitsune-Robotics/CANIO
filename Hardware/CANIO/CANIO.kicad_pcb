@@ -7111,7 +7111,7 @@
   (gr_text "RX" (at 5.75 -41.5) (layer "F.SilkS") (tstamp adf2e687-3340-4922-8032-f0e9279d2214)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "CANIO\nTest Board" (at -0.5 -7.5) (layer "F.SilkS") (tstamp b57dffa8-154e-4893-ae68-e896aaed318e)
+  (gr_text "CANIO\nTest Board" (at -0.75 -10.5) (layer "F.SilkS") (tstamp b57dffa8-154e-4893-ae68-e896aaed318e)
     (effects (font (size 2 2) (thickness 0.3)) (justify top))
   )
   (gr_text "CANL" (at -9.2 -37.17) (layer "F.SilkS" knockout) (tstamp b6853a04-569f-4da0-a164-45c8b3412cd8)
@@ -7128,6 +7128,9 @@
   )
   (gr_text "STAT" (at 26.25 -29.5) (layer "F.SilkS") (tstamp f4d5c24a-fca4-44d5-85dd-2b8d6d3e2a3d)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
+  )
+  (gr_text "${FULL_REVISION}" (at -0.5 -4.25) (layer "F.SilkS") (tstamp fb7a3aad-0780-42f9-8587-9577cd4c237a)
+    (effects (font (size 1.6 1.6) (thickness 0.3)) (justify top))
   )
 
   (segment (start 0.55 -19.05) (end 0.5 -19) (width 0.45) (layer "F.Cu") (net 1) (tstamp 00eef2ea-2a38-42cc-b5b6-4d63e3e47239))
