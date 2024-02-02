@@ -17,8 +17,8 @@ preflight:
       command: "git describe --always --tags"
     - name: "ISSUE"
       command: "date '+%Y-%m-%d'"
-    # - name: "KENWOODFOX_3DMODELS" # My custom libs!
-    #   command: "echo 'Hardware/CANIO/Libraries/kenwoodfox-kicad-libraries/3d'"
+    - name: "KENWOODFOX_3DMODELS" # My custom libs!
+      command: "echo 'Hardware/CANIO/Libraries/kenwoodfox-kicad-libraries/3d'"
 
 filters:
   - name: only_jlc_parts
